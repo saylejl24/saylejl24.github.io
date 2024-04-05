@@ -1236,3 +1236,11 @@ ul.slides li {
 	    padding-bottom: 40px;
 	}
 }
+
+/**Photography portfolio style **/
+ .portfolio-images img {
+            max-width: 100%; /* Set the maximum width of the images to 100% */
+            height: auto; /* Ensure the aspect ratio is maintained */
+            margin: 10px;
+            border-radius: 5px;
+ }
